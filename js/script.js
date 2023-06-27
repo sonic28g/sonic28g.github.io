@@ -1,6 +1,6 @@
 var i = 0;
 var txt = "return \"Welcome!\""; 
-var speed = 50; 
+var speed = 5000; 
 
 function typeWriter() {
 
