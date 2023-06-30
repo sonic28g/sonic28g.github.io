@@ -9,17 +9,17 @@
 }
 
 #ret{
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .tywr{
-    margin-top: 50px;
-    font-size: 40px;
+    margin-top: 150px;
+    font-size: 64px;
     letter-spacing: 10px;
     font-family: monospace;
     border-right: 2px solid;
-    width: 30%;
+    width: 41.5%;
     white-space: nowrap;
     overflow: hidden;
     animation: 
@@ -33,4 +33,9 @@
 
 @keyframes cursor {
     50% { border-color: transparent;}
+}
+
+#homeP{
+    background-image: url(../img/banner2.png);
+    height: 500px;
 }
