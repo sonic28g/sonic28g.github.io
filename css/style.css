@@ -39,3 +39,9 @@
     background-image: url(../img/banner2.png);
     height: 500px;
 }
+
+#title{
+    font-family: monospace;
+    font-size: 48px;
+    letter-spacing: 5px;
+}
