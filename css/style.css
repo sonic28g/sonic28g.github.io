@@ -33,11 +33,25 @@
     letter-spacing: 10px;
     font-family: monospace;
     border-right: 2px solid;
-    width: 31.5%;
+    width: 24.5%;
     white-space: nowrap;
     overflow: hidden;
     animation: 
-        typing 1.5s steps(9), /* number of letters */
+        typing 1.5s steps(7), /* number of letters */
+        cursor .4s step-end infinite alternate;
+}
+
+.tywrP{
+    margin-top: 150px;
+    font-size: 64px;
+    letter-spacing: 10px;
+    font-family: monospace;
+    border-right: 2px solid;
+    width: 35.0%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+        typing 1.5s steps(10), /* number of letters */
         cursor .4s step-end infinite alternate;
 }
 
